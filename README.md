@@ -13,7 +13,7 @@
 
 * FROM 10.48550/arXiv.2408.05932
 
-  (4) Butler, K. T.; Davies, D. W.; Cartwright, H.; Isayev, O.; Walsh, A. Machine learning for molecular and materials science. Nature 2018, 559, 547–555.
+  [ML-approaches](4) Butler, K. T.; Davies, D. W.; Cartwright, H.; Isayev, O.; Walsh, A. Machine learning for molecular and materials science. Nature 2018, 559, 547–555.
   
   (5) Margraf, J. T. Science-Driven Atomistic Machine Learning. Angew. Chem. Int. Ed. 2023, 62, e202219170.
   
