@@ -11,7 +11,7 @@
 
   GradDFT. A software library for machine learning enhanced density functional theory--The Journal of Chemical Physics--2024.02--DOI: 10.1063/5.0181037
 
-* FROM 10.48550/arXiv.2408.05932（复旦大学徐昕教授课题组[https://xdft.fudan.edu.cn/]）
+* FROM 10.48550/arXiv.2408.05932（复旦大学徐昕教授课题组[https://xdft.fudan.edu.cn][http://www.xdft.org]）
 
   [ML-approaches](4) Butler, K. T.; Davies, D. W.; Cartwright, H.; Isayev, O.; Walsh, A. Machine learning for molecular and materials science. Nature 2018, 559, 547–555.
   
