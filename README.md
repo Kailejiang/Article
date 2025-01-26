@@ -13,10 +13,10 @@
 
 * FROM 10.48550/arXiv.2408.05932（复旦大学徐昕教授课题组[http://www.xdft.org]）
 
-  [ML-approaches](4) Butler, K. T.; Davies, D. W.; Cartwright, H.; Isayev, O.; Walsh, A. Machine learning for molecular and materials science. Nature 2018, 559, 547–555.
+  (ML-approaches)(4) Butler, K. T.; Davies, D. W.; Cartwright, H.; Isayev, O.; Walsh, A. Machine learning for molecular and materials science. Nature 2018, 559, 547–555.
   
-  [ML-approaches](5) Margraf, J. T. Science-Driven Atomistic Machine Learning. Angew. Chem. Int. Ed. 2023, 62, e202219170.
+  (ML-approaches)(5) Margraf, J. T. Science-Driven Atomistic Machine Learning. Angew. Chem. Int. Ed. 2023, 62, e202219170.
   
-  [large-scale dynamics simulations](6) Unke, O. T.; Chmiela, S.; Sauceda, H. E.; Gastegger, M.; Poltavsky, I.; Schutt, K. T.; Tkatchenko, A.; M¨uller, K.-R. Machine learning force fields. Chem. Rev. 2021, 121, 10142–10186.
+  (large-scale dynamics simulations)(6) Unke, O. T.; Chmiela, S.; Sauceda, H. E.; Gastegger, M.; Poltavsky, I.; Schutt, K. T.; Tkatchenko, A.; M¨uller, K.-R. Machine learning force fields. Chem. Rev. 2021, 121, 10142–10186.
   
-  [high-throughput screening](7) Merchant, A.; Batzner, S.; Schoenholz, S. S.; Aykol, M.; Cheon, G.; Cubuk, E. D. Scaling deep learning for materials discovery. Nature 2023, 624, 80–85.
+  (high-throughput screening)(7) Merchant, A.; Batzner, S.; Schoenholz, S. S.; Aykol, M.; Cheon, G.; Cubuk, E. D. Scaling deep learning for materials discovery. Nature 2023, 624, 80–85.
