@@ -10,3 +10,13 @@ C--OA--Enabling high throughput deep reinforcement learning with first principle
 C--OA--Predicting thermodynamic stability of inorganic compounds using ensemble machine learning based on electron configuration--Nature Communications-2025.01--DOI: 10.1038/s41467-024-55525-y
 
 GradDFT. A software library for machine learning enhanced density functional theory--The Journal of Chemical Physics--2024.02--DOI: 10.1063/5.0181037
+
+* FROM 10.48550/arXiv.2408.05932
+
+  (4) Butler, K. T.; Davies, D. W.; Cartwright, H.; Isayev, O.; Walsh, A. Machine learning for molecular and materials science. Nature 2018, 559, 547–555.
+  
+  (5) Margraf, J. T. Science-Driven Atomistic Machine Learning. Angew. Chem. Int. Ed. 2023, 62, e202219170.
+  
+  (6) Unke, O. T.; Chmiela, S.; Sauceda, H. E.; Gastegger, M.; Poltavsky, I.; Schutt, K. T.; Tkatchenko, A.; M¨uller, K.-R. Machine learning force fields. Chem. Rev. 2021, 121, 10142–10186.
+  
+  (7) Merchant, A.; Batzner, S.; Schoenholz, S. S.; Aykol, M.; Cheon, G.; Cubuk, E. D. Scaling deep learning for materials discovery. Nature 2023, 624, 80–85.
